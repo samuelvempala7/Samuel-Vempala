@@ -1,0 +1,4 @@
+model,test_records,auc,brier
+Sample rate,300,0.50000,0.21000
+Logistic,300,0.78259,0.16277
+Forest,300,0.78757,0.16787

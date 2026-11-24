@@ -1,0 +1,11 @@
+predicted,observed,records,adverse_cases,model
+0.05153,0.08333,60,5,Logistic
+0.12236,0.15000,60,9,Logistic
+0.23025,0.25000,60,15,Logistic
+0.39724,0.33333,60,20,Logistic
+0.63904,0.68333,60,41,Logistic
+0.09949,0.06667,60,4,Forest
+0.16570,0.16667,60,10,Forest
+0.27072,0.25000,60,15,Forest
+0.38332,0.30000,60,18,Forest
+0.51077,0.71667,60,43,Forest

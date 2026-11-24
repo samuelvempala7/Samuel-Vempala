@@ -1,0 +1,21 @@
+{
+  "scope": "Synthetic requests and trace timings, local SQLite and Python",
+  "requests": 24000,
+  "flagged_region": "east",
+  "flagged_endpoint": "catalog",
+  "confirmation_requests_per_arm": 1000,
+  "mean_gap_ms": 69.03033669652588,
+  "mean_gap_ci95_ms": [
+    66.83799281043812,
+    71.22268058261344
+  ],
+  "welch_p_value": 0.0,
+  "trace_mean_gaps_ms": {
+    "cache": 69.91233877412321,
+    "service": -1.1426275629228542,
+    "network": 0.2606254853253738
+  },
+  "canary_p95_ms": 232.50800825782386,
+  "rollback_replay_p95_ms": 162.50800825782386,
+  "baseline_p95_ms": 163.10088103139486
+}

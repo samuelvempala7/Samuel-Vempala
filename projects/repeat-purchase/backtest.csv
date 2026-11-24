@@ -1,0 +1,5 @@
+window,method,customers,selected,repeat_buyers_in_top,overall_rate,top_fifth_rate,lift,average_precision,brier
+October 1997,Recency,2357,471,210,0.16886,0.44586,2.64043,0.46896,
+October 1997,Logistic,2357,471,224,0.16886,0.47558,2.81646,0.49846,0.11364
+January 1998,Recency,2357,471,218,0.16292,0.46285,2.84095,0.45777,
+January 1998,Logistic,2357,471,218,0.16292,0.46285,2.84095,0.54259,0.10689

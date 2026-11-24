@@ -1,0 +1,17 @@
+through_batch,order_id,currency,event_net,settled,delta_cents,status
+1,p100,USD,3400,3400,0,matched
+1,p101,USD,4900,4900,0,matched
+1,p102,EUR,1750,1750,0,matched
+1,p103,USD,820,,,missing settlement
+1,p104,USD,5000,3000,-2000,amount mismatch
+1,p105,EUR,2899,2800,-99,amount mismatch
+1,p106,USD,,700,,settlement only
+1,p107,USD,,2400,,settlement only
+2,p100,USD,3400,3400,0,matched
+2,p101,USD,4900,4900,0,matched
+2,p102,EUR,1750,1750,0,matched
+2,p103,USD,820,,,missing settlement
+2,p104,USD,3000,3000,0,matched
+2,p105,EUR,2899,2800,-99,amount mismatch
+2,p106,USD,,700,,conflicting event
+2,p107,USD,,2400,,settlement only

@@ -1,0 +1,9 @@
+policy,daily_capacity,reviews,caught,false_alerts,total_fraud,precision,recall
+Largest amount,5,100,7,93,348,0.07000,0.02011
+Model,5,100,43,57,348,0.43000,0.12356
+Largest amount,10,200,15,185,348,0.07500,0.04310
+Model,10,200,77,123,348,0.38500,0.22126
+Largest amount,20,400,22,378,348,0.05500,0.06322
+Model,20,400,106,294,348,0.26500,0.30460
+Largest amount,40,800,45,755,348,0.05625,0.12931
+Model,40,800,150,650,348,0.18750,0.43103

@@ -1,0 +1,14 @@
+batch,event,order_id,kind,currency,cents
+1,e01,p100,capture,USD,3400
+1,e02,p101,capture,USD,5900
+1,e02,p101,capture,USD,5900
+1,e03,p101,refund,USD,1000
+1,e04,p102,capture,EUR,1750
+1,e05,p103,capture,USD,820
+1,e06,p104,capture,USD,5000
+1,e07,p105,capture,EUR,2899
+2,e01,p100,capture,USD,3400
+2,e08,p104,refund,USD,1500
+2,e09,p104,refund,USD,500
+2,e10,p106,capture,USD,700
+2,e10,p106,capture,USD,900
